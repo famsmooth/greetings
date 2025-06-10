@@ -3,7 +3,7 @@
 =======
 # Greetings #
 
-TO-DO Describe the plugin shortly here.
+A greetings plugin!
 
 TO-DO Provide more detailed description here.
 
